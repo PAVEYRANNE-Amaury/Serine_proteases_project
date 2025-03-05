@@ -3,7 +3,8 @@
 Ce projet combine des analyses en Julia et Python pour étudier l'enrichissement de différents phénotypes à partir de données de séquençage (fastq) d'APE007.
 
 ## Structure du Projet
-APE007_analysis/
+```text
+Serine_proteases_project/
 ├── data/
 │ ├── raw/ # Fichiers fastq bruts
 │ ├── processed/ # Données traitées
@@ -21,7 +22,7 @@ APE007_analysis/
 │ │ └── utils.jl
 │ └── visualisation_enrichissement.ipynb
 └── README.md
-
+```
 ## Prérequis
 
 ### Julia
