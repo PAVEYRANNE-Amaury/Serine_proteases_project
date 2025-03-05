@@ -1,0 +1,62 @@
+mutant,phenotype,count_init,count_sort,enrichment
+"Aphanomyces astaci fungus,no record,no record,Saprolegniaceae,cold,trypsin",trypsin,1,4,1.3219280948873624
+"Tachypleus tridentatus,Merostomata,Xiphosura,Limulidae,cold,clotting factor g",clotting factor g,32,56,0.7884958948062882
+"Conidiobolus coronatus,Zygomycetes,Entomophthorales,Ancylistaceae,cold,not trypsin",not trypsin,354,587,0.72799713044432
+"Ictalurus punctatus,Actinopterygii,Siluriformes,Ictaluridae,cold,granzyme",granzyme,1150,1806,0.6507086727323692
+"Pediculus humanus,Insecta,Phthiraptera,Pediculidae,cold,trypsin",trypsin,173,246,0.5054237357359493
+"Litopenaeus vannamei,Malacostraca,Decapoda,Penaeidae,cold,chymotrypsin",chymotrypsin,334,399,0.2558389044295898
+"Homo sapiens,Mammalia,Primates,Hominidae,warm,plasminogen activator",plasminogen activator,5,6,0.22239242133644802
+"Mus musculus,Mammalia,Rodentia,Muridae,warm,granzyme",granzyme,511,545,0.09275714091985245
+"Bos taurus,Mammalia,Artiodactyla,Bovidae,NA,ref_chym",chymotrypsin,15136,13760,-0.13749399286352784
+"Periserrula leucophryna,Polychaeta,Phyllodocida,Nereididae,cold,not trypsin",not trypsin,63,55,-0.19264507794239588
+"Canis familiaris,Mammalia,Carnivora,Canidae,warm,elastase",elastase,90,70,-0.3580475206940142
+"Xenopus tropicalis,Amphibia,Anura,Pipidae,cold,ELSE",ELSE,238,183,-0.37730485192373564
+"Bos taurus,Mammalia,Ruminantia,Bovidae,warm,thrombin",thrombin,59,45,-0.38332863955150553
+"Apis mellifera,Insecta,Hymenoptera,Apidae,cold,not trypsin",not trypsin,59,45,-0.38332863955150553
+"Bos taurus,Mammalia,Ruminantia,Bovidae,warm,adipsin",adipsin,353,258,-0.4507972623964436
+"Danio rerio,Actinopterygii,Cypriniformes,Cyprinidae,cold,ELSE",ELSE,373,270,-0.4647454185337651
+"Sarcoptes scabiei type hominis,Arachnida,Astigmata,Sarcoptidae,cold,allergen",allergen,1652,1151,-0.5209460078500014
+"Phytophthora infestans,no record,Peronosporales,no record,cold,trypsin",trypsin,317,220,-0.5249803958929239
+"Zoophthora radicans,Zygomycetes,Entomophthorales,Entomophthoraceae,cold,trypsin",trypsin,483,333,-0.5351589448005423
+"Bunopithecus hoolock,Mammalia,Primates,Hylobatidae,warm,trypsin",trypsin,109,74,-0.5525410230287788
+"NA,NA,NA,NA,NA,NA",NA,74,50,-0.5563933485243852
+"Polyandrocarpa misakiensis,Ascidiacea,Stolidobranchia,Styelidae,cold,trypsin",trypsin,139,93,-0.5746941652673292
+"Hypocrea lixii,Sordariomycetes,Hypocreales,Hypocreaceae,cold,trypsin",trypsin,99,63,-0.6438561897747247
+"Ctenocephalides felis,Insecta,Siphonaptera,Pulicidae,cold,chymotrypsin",chymotrypsin,2845,1791,-0.6673650244688784
+"Homo sapiens,Mammalia,Primates,Hominidae,warm,f12",f12,151,94,-0.6780719051126377
+"Phlebotomus papatasi,Insecta,Diptera,Psychodidae,cold,chymotrypsin",chymotrypsin,60,37,-0.6828098241193007
+"Culex pipiens,Insecta,Diptera,Culicidae,cold,chymotrypsin",chymotrypsin,254,156,-0.6997326879672309
+"drosophila pseudoobscura,Insecta,Diptera,Drosophilidae,cold,ELSE",ELSE,4798,2871,-0.7406780638931424
+"Bos taurus,Mammalia,Ruminantia,Bovidae,warm,enteropeptidase",enteropeptidase,82,47,-0.7900769306257687
+"Lonomia obliqua,Insecta,Lepidoptera,Saturniidae,cold,ELSE",ELSE,799,459,-0.7983661388303496
+"caenorhabditis elegans,Chromadorea,Rhabditida,Rhabditidae,cold,ELSE",ELSE,360,203,-0.8234296849156753
+"Eisenia fetida,Oligochaeta,Haplotaxida,Lumbricidae,cold,fibrinolytic",fibrinolytic,1300,733,-0.8257689938745825
+"Homo sapiens,Mammalia,Primates,Hominidae,warm,hgf",hgf,981,552,-0.828443544079986
+"Canis familiaris,Mammalia,Carnivora,Canidae,warm,not trypsin",not trypsin,264,142,-0.8899772126721721
+"Phaedon cochleariae,Insecta,Coleoptera,Chrysomelidae,cold,trypsin",trypsin,370,194,-0.9279450628711927
+"drosophila melanogaster,Insecta,Diptera,Drosophilidae,cold,ELSE",ELSE,2982,1522,-0.9698480358479203
+"Cercocebus torquatus atys,Mammalia,Primates,Cercopithecidae,warm,haptoglobin",haptoglobin,139,70,-0.9795358974402845
+"Mayetiola destructor,Insecta,Diptera,Cecidomyiidae,cold,chymotrypsin",chymotrypsin,291,147,-0.9803711932510674
+"Roseovarius nubinhibens ISM,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,cold,trypsin",trypsin,1,0,-1.0
+"Danio rerio,Actinopterygii,Cypriniformes,Cyprinidae,cold,trypsin",trypsin,212,102,-1.04820909304262
+"Mus musculus,Mammalia,Rodentia,Muridae,warm,testis serine protease",testis serine protease,26,12,-1.0544477840223765
+"anopheles gambiae str. pest,Insecta,Diptera,Culicidae,cold,ELSE",ELSE,4924,2258,-1.1244394538380165
+"Tribolium castaneum,Insecta,Coleoptera,Tenebrionidae,cold,ELSE",ELSE,1662,761,-1.125925265793947
+"mus musculus,Mammalia,Rodentia,Muridae,warm,ELSE",ELSE,90,40,-1.1502426355806126
+"Blattella germanica,Insecta,Blattaria,Blattellidae,cold,trypsin",trypsin,1624,715,-1.1824082255389228
+"Mus musculus,Mammalia,Rodentia,Muridae,warm,ELSE",ELSE,254,111,-1.1869985148012538
+"Tribolium castaneum,Insecta,Coleoptera,Tenebrionidae,cold,adrenal mitochondria",adrenal mitochondria,442,188,-1.2289204643339458
+"Bos taurus,Mammalia,Ruminantia,Bovidae,warm,ELSE",ELSE,83,34,-1.2630344058337937
+"Rhyzopertha dominica,Insecta,Coleoptera,Bostrichidae,cold,chymotrypsin",chymotrypsin,16,6,-1.2801079191927354
+"Canis familiaris,Mammalia,Carnivora,Canidae,warm,tryptase",tryptase,219,88,-1.3056262825582619
+"Helicoverpa armigera,Insecta,Lepidoptera,Noctuidae,cold,trypsin",trypsin,1130,444,-1.3457216881360603
+"Drosophila melanogaster,Insecta,Diptera,Drosophilidae,cold,ELSE",ELSE,969,379,-1.3519853287435422
+"Diaprepes abbreviatus,Insecta,Coleoptera,Curculionidae,cold,trypsin",trypsin,627,227,-1.4617307347268855
+"Danio rerio,Actinopterygii,Cypriniformes,Cyprinidae,cold,not trypsin",not trypsin,1146,336,-1.7670448948339665
+"Rattus norvegicus,Mammalia,Rodentia,Muridae,warm,chymotrypsin",chymotrypsin,315,80,-1.9639307452924784
+"Sus scrofa,Mammalia,Laurasiatheria,Suidae,warm,enamel matrix",enamel matrix,122,30,-1.9883181949523647
+"Mus musculus,Mammalia,Rodentia,Muridae,NA,ref_tryp",trypsin,25942,5955,-2.1229296607600148
+"Biomphalaria glabrata,Gastropoda,Pulmonata,Planorbidae,cold,ELSE",ELSE,129,28,-2.1643868179008825
+"Paralichthys olivaceus,Actinopterygii,Pleuronectiformes,Paralichthyidae,cold,serine protease I",serine protease I,1343,249,-2.4265331381166733
+"Anthonomus grandis,Insecta,Coleoptera,Curculionidae,cold,trypsin",trypsin,405,71,-2.495410915742864
+"Homo sapiens,Mammalia,Primates,Hominidae,warm,f viia",f viia,526,77,-2.756256932774966
