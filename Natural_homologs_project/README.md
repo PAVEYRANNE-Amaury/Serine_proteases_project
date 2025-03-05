@@ -156,8 +156,7 @@ Problèmes courants :
 
 ## Contact
 
-[Votre nom/contact]
+Paveyranne Amaury : amaury.paveyranne@espci.fr
 
 ## Licence
 
-[Votre licence]
